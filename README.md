@@ -1,4 +1,5 @@
 # natali-weather-app
+Python based application to check the weather apis.
 
 ### Docker Build
 ```
